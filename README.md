@@ -5,3 +5,4 @@
 Algorithms <br>
 [lab-03](https://github.com/mahankalisreeraj/AIML/blob/main/Lab_03_AIML.ipynb) - Implementing AI Game Statergy <br>
 [Lab-04](https://github.com/mahankalisreeraj/AIML/blob/main/Lab_04_AIML.ipynb) - Implementing Linear Regression Model
+[Lab-05](https://github.com/mahankalisreeraj/AIML/blob/main/Lab_05_AIML.ipynb) - Implement Logistic Regression Model Using Titanic Ship Dataset
