@@ -8,4 +8,5 @@ Algorithms <br>
 [Lab-05](https://github.com/mahankalisreeraj/AIML/blob/main/Lab_05_AIML.ipynb) - Implement Logistic Regression Model Using Titanic Ship Dataset <br>
 [Lab-06](https://github.com/mahankalisreeraj/AIML/blob/main/LAb_06_AIML.ipynb) - Implement the K Nearest Neighbour Classification using Classified Manufacturing Dataset<br>
 [Lab-07](https://github.com/mahankalisreeraj/AIML/blob/main/Lab_07_AIML.ipynb) - Implement Support Vector Machine Classification using Brest Cancer Dataset<br>
-[Lab-08](https://github.com/mahankalisreeraj/AIML/blob/main/Lab_08_AIML.ipynb) - Decision Tree for classification
+[Lab-08](https://github.com/mahankalisreeraj/AIML/blob/main/Lab_08_AIML.ipynb) - Decision Tree for classification <br>
+[Lab-09](Lab_09_AIML.ipynb) - Implementig Random Forest Ensemble Model using Lending Data <br>
